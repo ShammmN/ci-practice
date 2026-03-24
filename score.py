@@ -1,3 +1,4 @@
+# The code being tested
 class Score:
     def __init__(self):
         self.points = 0
