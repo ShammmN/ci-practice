@@ -1,3 +1,4 @@
+# code tester runs on push
 import pytest
 from score import Score
 
